@@ -3,4 +3,5 @@ Editing in origin/master.
 Editing in origin/master once again.
 Editing in local/branch.
 Editing in local/branch once again.
-Editing in origin/master to test diff between 'Fetch' and 'Pull'.
+Editing in origin/master to test diff between 'Fetch' and 'Pull' (Try Fetch option first).
+Editing in origin/master to test diff between 'Fetch' and 'Pull' (Now trying Pull option).

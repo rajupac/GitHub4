@@ -1,3 +1,4 @@
 New file created in origin/master, will use 'Merge From' option in VS at branch level. -2nd file.
 Editing in origin/master.
 Editing in origin/master once again.
+Editing in local/branch.

@@ -3,3 +3,4 @@ Editing in origin/master.
 Editing in origin/master once again.
 Editing in local/branch.
 Editing in local/branch once again.
+Editing in origin/master to test diff between 'Fetch' and 'Pull'.
